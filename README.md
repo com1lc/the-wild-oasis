@@ -1,5 +1,6 @@
 # Live Demo : https://the-wild-oasis-eta-ecru.vercel.app
-# data test : 
+
+You should be able to log in and out of your application using the following credentials:
   email : keyetol411@usoplay.com
   password : pass12345
   
